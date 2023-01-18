@@ -54,14 +54,9 @@ LEOB3TA@github:~$ ./favourites.sh
 
 [![Top Langs](https://github-readme-stats-e67aooyzt-leob3ta.vercel.app/api/top-langs/?username=LEOB3TA)](https://github.com/LEOB3TA/github-readme-stats)
 
-```console
-LEOB3TA@github:~$ ./nowSpotify.sh
-```
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardofcrd&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=leonardofcrd&redirect=true)
 
 ```console
-LEOB3TA@github:~$ ./recentSpotify.sh
+LEOB3TA@github:~$ ./mySpotify.sh
 ```
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardofcrd&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=leonardofcrd&redirect=true)
