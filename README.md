@@ -1,10 +1,8 @@
 # LEOB3TA.github.io
-A creative page for my GitHub 
+
 ```console
 LEOB3TA@github:~$ ./hello.sh
-```
 
-```
 ----------------------------------------------------------------------------------------------------------------
     _      __    __                     __                      ______ __  __ __     __                       
    | | /| / /__ / /______  __ _  ___   / /____    __ _  __ __  / ___(_) /_/ // /_ __/ /    ___  ___ ____ ____ 
@@ -44,4 +42,29 @@ Leonardo Focardi
 🏍 motorcycle addicted
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOB3TA&show_icons=true&theme=dark&count_private=true)
+
+```console
+LEOB3TA@github:~$ ./someStats.sh
+```
+![Anurag's GitHub stats](https://github-readme-stats-e67aooyzt-leob3ta.vercel.app/api?username=LEOB3TA&show_icons=true&theme=dark&count_private=true)
+
+```console
+LEOB3TA@github:~$ ./favourites.sh
+```
+
+[![Top Langs](https://github-readme-stats-e67aooyzt-leob3ta.vercel.app/api/top-langs/?username=LEOB3TA)](https://github.com/LEOB3TA/github-readme-stats)
+
+```console
+LEOB3TA@github:~$ ./nowSpotify.sh
+```
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardofcrd&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=leonardofcrd&redirect=true)
+
+```console
+LEOB3TA@github:~$ ./recentSpotify.sh
+```
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leonardofcrd&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=leonardofcrd&redirect=true)
+
+
+
