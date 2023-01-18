@@ -32,14 +32,14 @@ LEOB3TA@github:~$ whoami
 Leonardo Focardi
 📚 Computer Engineering at Alma Mater Studiorium Unibo
 💻 MacOS, Windows, Linux user
-☕️ Main languages: Java, C/C++
+☕️ Main languages: Kotlin, Java, C/C++
 🧐 Interested in Cybersecurity
 🎵 Favourite band: Led Zeppelin
 📍 Arezzo
 📍 Bologna
 🏁 Formula1 and MotoGP addicted
 🚘 Car guy
-🏍 motorcycle addicted
+🏍 Motorcycle addicted
 ```
 
 
