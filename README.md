@@ -46,13 +46,13 @@ Leonardo Focardi
 ```console
 LEOB3TA@github:~$ ./someStats.sh
 ```
-![Anurag's GitHub stats](https://github-readme-stats-e67aooyzt-leob3ta.vercel.app/api?username=LEOB3TA&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-4494emytz-leob3ta.vercel.app/api?username=LEOB3TA&show_icons=true&theme=dark&count_private=true)
 
 ```console
 LEOB3TA@github:~$ ./favourites.sh
 ```
 
-[![Top Langs](https://github-readme-stats-e67aooyzt-leob3ta.vercel.app/api/top-langs/?username=LEOB3TA)](https://github.com/LEOB3TA/github-readme-stats)
+[![Top Langs](https://github-readme-stats-4494emytz-leob3ta.vercel.app/api/top-langs/?username=LEOB3TA)](https://github.com/LEOB3TA/github-readme-stats)
 
 
 ```console
