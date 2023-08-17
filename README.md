@@ -49,10 +49,10 @@ LEOB3TA@github:~$ ./someStats.sh
 ![Anurag's GitHub stats](https://github-readme-stats-dprzd0wfv-leob3ta.vercel.app/api?username=LEOB3TA&show_icons=true&theme=dark&count_private=true)
 
 ```console
-LEOB3TA@github:~$ ./favourites.sh
+LEOB3TA@github:~$ ./topLangs.sh
 ```
 
-[![Top Langs](https://github-readme-stats-dprzd0wfv-leob3ta.vercel.app/api/top-langs/?username=LEOB3TA&hide=html))](https://github.com/LEOB3TA/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dprzd0wfv-leob3ta.vercel.app/api/top-langs/?username=LEOB3TA&hide=html&theme=dark)](https://github.com/LEOB3TA/github-readme-stats)
 
 
 ```console
