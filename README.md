@@ -60,7 +60,7 @@ LEOB3TA@github:~$ ./someStats.sh
 LEOB3TA@github:~$ ./topLangs.sh
 ```
 
-[![Top Langs](https://github-readme-stats-dprzd0wfv-leob3ta.vercel.app/api/top-langs/?username=LEOB3TA&hide=html&hide=css&theme=dark)](https://github.com/LEOB3TA/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dprzd0wfv-leob3ta.vercel.app/api/top-langs/?username=LEOB3TA&hide=html,css&theme=dark)](https://github.com/LEOB3TA/github-readme-stats)
 
 
 ```console
