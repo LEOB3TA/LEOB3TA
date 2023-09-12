@@ -54,7 +54,7 @@ Leonardo Focardi
 ```console
 LEOB3TA@github:~$ ./someStats.sh
 ```
-![Anurag's GitHub stats](https://github-readme-stats-dprzd0wfv-leob3ta.vercel.app/api?username=LEOB3TA&show_icons=true&theme=dark&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats-dprzd0wfv-leob3ta.vercel.app/api?username=LEOB3TA&show_icons=true&theme=dark&count_private=true)](https://github.com/LEOB3TA/github-readme-stats)
 
 ```console
 LEOB3TA@github:~$ ./topLangs.sh
