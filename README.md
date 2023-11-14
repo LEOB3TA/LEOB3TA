@@ -1,4 +1,4 @@
-# LEOB3TA.github.io
+# LEOB3TA
 
 ```console
 LEOB3TA@github:~$ ./hello.sh
