@@ -1,5 +1,3 @@
-# LEOB3TA
-
 ```console
 LEOB3TA@github:~$ ./hello.sh
             
